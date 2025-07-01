@@ -1,5 +1,5 @@
 # gitcollab
-#TeamTres
-## Contributors
+## TeamTres
+### Contributors
 
 Mariel Maullon - Master Maintainer
