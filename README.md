@@ -3,4 +3,4 @@
 ### Contributors
 
 Mariel Maullon - Master Maintainer
-Dharwyn Buhay - Member/Contributor
+/n Dharwyn Buhay - Member/Contributor
