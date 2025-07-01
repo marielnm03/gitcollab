@@ -6,4 +6,6 @@ Mariel Maullon - Master Maintainer
 
 Dharwyn Buhay - Member/Contributor
 
-Jhade Villanueva - Member/Contributors
+Jhade Villanueva - Member/Contributor
+
+Jocelle Baylon - Member/Contributor
